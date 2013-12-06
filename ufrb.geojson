@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro de Ciência e Tecnologia em Energia e Sustentabilidade - CETENS",
+        "type": "Centro de Ensino",
+        "site": "http://www.ufrb.edu.br/cetens/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.92623960971832,
+          -12.254442269119068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro de Cultura, Linguagens e Tecnologias Aplicadas - CECULT",
+        "type": "Centro de Ensino",
+        "site": "http://ufrb.edu.br/cecult"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.703176379203796,
+          -12.554416916300822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro de Artes, Humanidades e Letras - CAHL",
+        "type": "Centro de Ensino",
+        "site": "http://www.ufrb.edu.br/cahl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.96307170391083,
+          -12.603804817727703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro de Ciências Agrárias, Ambientais e Biológicas - CCAAB",
+        "type": "Centro de Ensino",
+        "site": "http://www.ufrb.edu.br/ccaab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.09013330936432,
+          -12.657260562323435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro de Ciências Exatas e Tecnológicas - CETEC",
+        "type": "Centro de Ensino",
+        "site": "http://www.ufrb.edu.br/cetec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.09084677696228,
+          -12.65709830661747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reitoria",
+        "type": "Administração",
+        "site": "http://www.ufrb.edu.br/reitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.0878427028656,
+          -12.659150048591712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro de Ciências da Saúde - CCS",
+        "type": "Centro de Ensino",
+        "site": "http://www.ufrb.edu.br/ccs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.250051975250244,
+          -12.978662667471609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro de Formação de Professores - CFP",
+        "type": "Centro de Ensino",
+        "site": "http://www.ufrb.edu.br/cfp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.61369514465332,
+          -13.022683737364712
+        ]
+      }
+    }
+  ]
+}

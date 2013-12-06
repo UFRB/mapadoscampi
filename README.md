@@ -1,6 +1,4 @@
-salvadorbus
+Mapa dos Campi
 ===========
 
-Tool to help mapping the bus stops of Salvador
-
-![screenshot do mapa](screenshot.jpg)
+Mapa de todos os Centros de Ensino e da Reitoria da UFRB
